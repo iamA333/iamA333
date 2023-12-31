@@ -25,7 +25,7 @@ AI Enthusiast
 I am a motivated Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning, with a strong skill set in Python, a track record of innovative projects, and a passion for making a positive impact through technology. I enjoy working on innovative projects and I am looking for a place where I can learn and grow continuously.
 
 *   🌍  I'm based in India
-*   ✉️  You can contact me at [abhishek.santosh333@gmail.com](mailto:abhishek.santosh333@gmail.com)
+*   ✉️  You can contact me at [abhisheksantosh33@gmail.com](mailto:abhisheksantosh33@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects
   
 ### Skills 
